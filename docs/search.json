@@ -35,17 +35,10 @@
     "text": "Research Interests\n\nLearning and cognitive disabilities\n\nClinical and developmental psychology\n\nEmpathy and social cognition"
   },
   {
-    "objectID": "index.html#blog",
-    "href": "index.html#blog",
-    "title": "Tushinka Pereira",
-    "section": "Blog",
-    "text": "Blog\nCheck out my blog post: The Psychology of Spending"
-  },
-  {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "Tushinka Pereira",
     "section": "Contact",
-    "text": "Contact\nEmail: tppereir@uwaterloo.ca\nPhone: 12268996722\nLinkedIn: Tushinka Pereira"
+    "text": "Contact\nEmail: tppereir@uwaterloo.ca\nPhone: 12268996722\nLinkedIn: Tushinka Pereira\nformat: html: theme: cosmo toc: false css: styles.css"
   }
 ]
