@@ -3,20 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "tushinkapereira"
+  site-url: "https://tushinkapereira.github.io"
+  title: "  Tushinka Pereira"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
-format:
-  html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
-
-
-
+      - text: Home
+        file: index.qmd
+      - text: About
+        file: about.qmd
+        text: Blog
+        href: /blog/
