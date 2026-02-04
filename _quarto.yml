@@ -5,11 +5,12 @@ project:
 website:
   site-url: "https://tushinkapereira.github.io"
   title: "  Tushinka Pereira"
-  navbar:
-    left:
-      - text: Home
-        file: index.qmd
-      - text: About
-        file: about.qmd
-        text: Blog
-        href: /blog/
+navbar:
+  left:
+    - text: Home
+      file: index.qmd
+    - text: About
+      file: about.qmd
+    - text: Blog
+      href: /blog/
+
